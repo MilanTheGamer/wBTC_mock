@@ -1,0 +1,10 @@
+module.exports = {
+    owners: [
+        "0xa104057C2B573Dd31C8Fe9E5969dB24F24fb4093",
+        "0xfe1d393F980cbfF51D474f553036F92f1D823701",
+        "0x9675c5584bd36c5DF489df4112a03f709496C0B0",
+        "0x9675c5584bd36c5DF489df4112a03f709496C0B0",
+        "0x0E01faF8715C2203929818A16F0F5bb61893a765",
+    ],
+    numberOfConfirmations: 2,
+};
