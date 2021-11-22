@@ -1,5 +1,5 @@
 const WBTC = artifacts.require("WBTC");
 
 module.exports = function (deployer) {
-    deployer.deploy(WBTC);
+    deployer.deploy(WBTC, "Wrapped BTC", "wBTC");
 };

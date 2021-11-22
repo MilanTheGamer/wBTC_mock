@@ -7,3 +7,4 @@ Run the following commands
 * configure the owners list and number of confirmations in config/config.js
 
 * truffle migrate --reset
+
